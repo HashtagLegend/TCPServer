@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Skat</name>
+    </assembly>
+    <members>
+        <member name="M:Skat.Afgift.BilAfgift(System.Int32)">
+            <summary>
+            BilAfgift returnere afgiften på på den angivne bilpris,
+            Hvis prisen er mindre end eller = 200.000 er afgiften 85% af bilens pris
+            Hvis prisen er over 200.000 er afgiften 150% minus 130.000.
+            </summary>
+            <param name="pris"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Skat.Afgift.ElBilAfgift(System.Int32)">
+            <summary>
+            Elbilafgift returnere afgiften på elbiler. Elbil afgiften er 20% af den alm. bilafgift.
+            Hvis prisen er mindre end eller = 200.000 er afgiften 85% af bilens pris - 20% af denne pris er ElAfgiften
+            Hvis prisen er over 200.000 er afgiften 150% minus 130.000 - 20% af denne pris er ElAfgiften
+            </summary>
+            <param name="pris"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

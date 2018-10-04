@@ -1,0 +1,14 @@
+D:\source\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.csprojAssemblyReference.cache
+D:\source\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.csproj.CoreCompileInputs.cache
+D:\source\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.AssemblyInfoInputs.cache
+D:\source\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.AssemblyInfo.cs
+D:\source\TCPServer\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.deps.json
+D:\source\TCPServer\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.runtimeconfig.json
+D:\source\TCPServer\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.runtimeconfig.dev.json
+D:\source\TCPServer\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.dll
+D:\source\TCPServer\TCPServer\bin\Debug\netcoreapp2.1\TCPServer.pdb
+D:\source\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.dll
+D:\source\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.pdb
+D:\source\TCPServer\TCPServer\bin\Debug\netcoreapp2.1\Skat.dll
+D:\source\TCPServer\TCPServer\bin\Debug\netcoreapp2.1\Skat.xml
+D:\source\TCPServer\TCPServer\obj\Debug\netcoreapp2.1\TCPServer.csproj.CopyComplete
